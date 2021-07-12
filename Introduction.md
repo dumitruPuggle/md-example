@@ -13,5 +13,7 @@
 > Thank you very much for everyone who is using this
 library, please support me to do some other projects in future.
 
+<button onclick="alert(1)">Test</button>
+
 And some documentation about React.
 [Donate to this project to keep it alive.](http://github.com/dumitruPuggle)
